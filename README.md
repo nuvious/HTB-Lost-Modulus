@@ -1,4 +1,4 @@
-# Hack The Box (HTB) - Log Modulus Attack Walkthrough
+# Hack The Box (HTB) - Lost Modulus Attack Walkthrough
 
 This is a walkthrough and explanation of the [Lost Modulus](
 https://app.hackthebox.com/challenges/lost-modulus) challenge on Hack The Box.
